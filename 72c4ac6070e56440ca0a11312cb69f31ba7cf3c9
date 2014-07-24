@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_f2d47c48",
+        "filename": "taoshan.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 7128
+      },
+      "writtenOn": "2014-07-24T10:31:50Z",
+      "side": 1,
+      "message": "I think we can remove this line",
+      "revId": "72c4ac6070e56440ca0a11312cb69f31ba7cf3c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_52ca88a2",
+        "filename": "taoshan.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 204,
+      "author": {
+        "id": 7128
+      },
+      "writtenOn": "2014-07-24T10:31:50Z",
+      "side": 1,
+      "message": "Here missed \"\\\"\nMust be like \nPRODUCT_DEFAULT_PROPERTY_OVERRIDES +\u003d \\\n         persist.sys.usb.config\u003dmtp \\",
+      "revId": "72c4ac6070e56440ca0a11312cb69f31ba7cf3c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
