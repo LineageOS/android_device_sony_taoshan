@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_32ec34c7",
+        "filename": "taoshan.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 7128
+      },
+      "writtenOn": "2014-07-24T22:08:49Z",
+      "side": 1,
+      "message": "we can remove this .. bcz cyanogenmod using cwm",
+      "revId": "db44244dae3880502781624798f097e0745cd155",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
