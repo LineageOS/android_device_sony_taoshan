@@ -1,0 +1,259 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_72222cbb",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "tabs",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_f24e3c95",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_124ad083",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_b27e84ac",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "also here",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_52444873",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 376,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "also here",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_3249d48c",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 389,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "and here",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_925ee043",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 522,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "and here",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_725b4c55",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 543,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_d2585859",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 557,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_b255e41e",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 563,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_1231300c",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 574,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_f2359cf7",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 623,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_523ba8eb",
+        "filename": "taoshan.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_3240b456",
+        "filename": "taoshan.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_922540c4",
+        "filename": "taoshan.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-07-25T05:54:08Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "160edbdd6d0cc49ae2ad15b1d4b7dfa8770246c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
