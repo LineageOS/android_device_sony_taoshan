@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_7d267d17",
+        "filename": "overlay/packages/services/Telephony/res/values/config.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2014-07-25T09:52:32Z",
+      "side": 1,
+      "message": "Missed a tab",
+      "revId": "79480a361b066d40cd6d6ef4f0c70cb35f618c78",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
