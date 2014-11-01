@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a18252c_49cae3a2",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 335,
+      "author": {
+        "id": 8214
+      },
+      "writtenOn": "2014-11-01T18:24:02Z",
+      "side": 1,
+      "message": "whitespaces",
+      "revId": "6b9a321a471aeab35252952ba3cdeed373b76662",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_89c4fb92",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 349,
+      "author": {
+        "id": 8214
+      },
+      "writtenOn": "2014-11-01T18:24:02Z",
+      "side": 1,
+      "message": "again",
+      "revId": "6b9a321a471aeab35252952ba3cdeed373b76662",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_69c19f80",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 354,
+      "author": {
+        "id": 8214
+      },
+      "writtenOn": "2014-11-01T18:24:02Z",
+      "side": 1,
+      "message": "here too",
+      "revId": "6b9a321a471aeab35252952ba3cdeed373b76662",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_29cfa7b1",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 377,
+      "author": {
+        "id": 8214
+      },
+      "writtenOn": "2014-11-01T18:24:02Z",
+      "side": 1,
+      "message": "same",
+      "revId": "6b9a321a471aeab35252952ba3cdeed373b76662",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
