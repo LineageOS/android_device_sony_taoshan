@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da7fb54a_2fe22804",
+        "filename": "rootdir/system/etc/init.qcom.modem_links.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2015-04-28T20:08:09Z",
+      "side": 1,
+      "message": "Nope",
+      "range": {
+        "startLine": 53,
+        "startChar": 16,
+        "endLine": 53,
+        "endChar": 53
+      },
+      "revId": "edef3f467c40884497231437ddcd5723b6f84962",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
