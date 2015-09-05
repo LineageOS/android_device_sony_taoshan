@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_61556f50",
+        "filename": "combinedroot/init.sh",
+        "patchSetId": 5
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-09-05T19:28:28Z",
+      "side": 1,
+      "message": "These are obsolete now too",
+      "range": {
+        "startLine": 45,
+        "startChar": 1,
+        "endLine": 48,
+        "endChar": 37
+      },
+      "revId": "c0abedc220dd20fa67da7e4357f06960734cc24f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
