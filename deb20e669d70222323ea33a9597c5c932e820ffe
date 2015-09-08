@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_bb13af0d",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 9392
+      },
+      "writtenOn": "2015-09-08T16:58:58Z",
+      "side": 1,
+      "message": "Already defined: https://github.com/CyanogenMod/android_device_sony_taoshan/blob/cm-12.1/cm.mk#L28",
+      "revId": "deb20e669d70222323ea33a9597c5c932e820ffe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_9bf8f3c4",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 9392
+      },
+      "writtenOn": "2015-09-08T16:58:58Z",
+      "side": 1,
+      "message": "Chirayu: https://github.com/CyanogenMod/android_build/commit/03f58be07a436e891567815deea45a3b5cf7adfc\n\nis there any other way to do this properly?",
+      "revId": "deb20e669d70222323ea33a9597c5c932e820ffe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
