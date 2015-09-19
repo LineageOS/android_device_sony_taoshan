@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff346bd7_015ff441",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2015-09-19T18:01:47Z",
+      "side": 1,
+      "message": "\"and re-organize makefiles\", or something like that.",
+      "revId": "e81a4f0e9ed9320ccf675f75651c9bd74596faf7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff346bd7_e15bd051",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2015-09-19T18:01:47Z",
+      "side": 1,
+      "message": "Split this into multiple lines, 80 cols per line kindly.",
+      "revId": "e81a4f0e9ed9320ccf675f75651c9bd74596faf7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
