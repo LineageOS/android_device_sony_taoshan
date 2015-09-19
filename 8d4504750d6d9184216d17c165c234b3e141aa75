@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff346bd7_6135a0f7",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2015-09-19T18:03:52Z",
+      "side": 0,
+      "message": "Remove this too.",
+      "revId": "8d4504750d6d9184216d17c165c234b3e141aa75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
