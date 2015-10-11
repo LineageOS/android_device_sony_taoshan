@@ -15,7 +15,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # QMI properties
 PRODUCT_PROPERTY_OVERRIDES += \
-    com.qc.hardware=true
+    com.qc.hardware=true \
+    persist.data.qmi.adb_logmask=0
 
 # Radio properties
 PRODUCT_PROPERTY_OVERRIDES += \
