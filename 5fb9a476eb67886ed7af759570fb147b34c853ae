@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f4e5783_7f61af39",
+        "filename": "rootdir/system/etc/audio_policy.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-11-23T00:59:13Z",
+      "side": 1,
+      "message": "Still, you can\u0027t have IN_COMMUNICATION listed here.",
+      "revId": "5fb9a476eb67886ed7af759570fb147b34c853ae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
