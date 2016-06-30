@@ -45,6 +45,30 @@
       "revId": "c8e2171ab7a8a5bf16c69523d18ca4a7c0c7cf4f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_2ba43a08",
+        "filename": "rootdir/root/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 276,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2016-06-30T07:01:53Z",
+      "side": 1,
+      "message": "https://android.googlesource.com/platform/system/core/+/master/init/readme.txt#340",
+      "parentUuid": "3fa7e38b_cb5fa60c",
+      "range": {
+        "startLine": 276,
+        "startChar": 7,
+        "endLine": 276,
+        "endChar": 10
+      },
+      "revId": "c8e2171ab7a8a5bf16c69523d18ca4a7c0c7cf4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
