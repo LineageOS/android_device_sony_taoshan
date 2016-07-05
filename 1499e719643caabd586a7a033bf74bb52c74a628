@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_d61ae215",
+        "filename": "sepolicy/fsck.te",
+        "patchSetId": 43
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-07-05T09:47:09Z",
+      "side": 1,
+      "message": "Unneeded after http://review.cyanogenmod.org/#/c/151187/",
+      "revId": "1499e719643caabd586a7a033bf74bb52c74a628",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
