@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff2e2bb8_df3f54b3",
+        "filename": "boot/custombootimg.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-10-03T15:25:50Z",
+      "side": 1,
+      "message": "Remove the colours for Nougat, or add a commit to remove them later.",
+      "revId": "ceb849041606951fc09dd0ad723bbb9887fd3b7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff2e2bb8_bf3c10c0",
+        "filename": "boot/custombootimg.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-10-03T15:25:50Z",
+      "side": 1,
+      "message": "Same",
+      "revId": "ceb849041606951fc09dd0ad723bbb9887fd3b7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff2e2bb8_ff3178ee",
+        "filename": "boot/custombootimg.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-10-03T15:25:50Z",
+      "side": 1,
+      "message": "Indent is broken",
+      "revId": "ceb849041606951fc09dd0ad723bbb9887fd3b7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
