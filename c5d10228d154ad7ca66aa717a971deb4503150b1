@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff2e2bb8_1f353cdb",
+        "filename": "boot/custombootimg.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-10-03T15:29:56Z",
+      "side": 1,
+      "message": "Unneeded white line",
+      "revId": "c5d10228d154ad7ca66aa717a971deb4503150b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff2e2bb8_5f750498",
+        "filename": "boot/custombootimg.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-10-03T15:29:56Z",
+      "side": 1,
+      "message": "Colours",
+      "revId": "c5d10228d154ad7ca66aa717a971deb4503150b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff2e2bb8_ff46984f",
+        "filename": "boot/custombootimg.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-10-03T15:29:56Z",
+      "side": 1,
+      "message": "Whitespace here and below",
+      "revId": "c5d10228d154ad7ca66aa717a971deb4503150b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff2e2bb8_3f512010",
+        "filename": "boot/custombootimg.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-10-03T15:29:56Z",
+      "side": 1,
+      "message": "There shoudln\u0027t be any color formatting in Nougat",
+      "revId": "c5d10228d154ad7ca66aa717a971deb4503150b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff2e2bb8_5f4ce475",
+        "filename": "boot/custombootimg.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-10-03T15:29:56Z",
+      "side": 1,
+      "message": "Follows previous commit\u0027s comment",
+      "revId": "c5d10228d154ad7ca66aa717a971deb4503150b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
