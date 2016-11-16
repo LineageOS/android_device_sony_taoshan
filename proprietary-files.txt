@@ -28,7 +28,6 @@ etc/firmware/cyttsp_8064_mtp.hex
 etc/firmware/cyttsp_8960_cdp.hex
 etc/firmware/leia_pfp_470.fw
 etc/firmware/leia_pm4_470.fw
-etc/firmware/libpn544_fw.so
 etc/firmware/tzlibasb.b00
 etc/firmware/tzlibasb.b01
 etc/firmware/tzlibasb.b02
