@@ -468,7 +468,7 @@ service taimport /system/bin/taimport
     group system
     oneshot
 
-service mpdecision /system/bin/mpdecision --no_sleep --avg_comp
+service mpdecision /system/bin/mpdecision --avg_comp
    user root
    disabled
 
