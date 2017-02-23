@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa5d592f_15060521",
+        "filename": "rootdir/fstab.qcom",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2017-02-23T20:49:17Z",
+      "side": 1,
+      "message": "You might want to adapt the additional spaces both here and below to properly align the flags.",
+      "revId": "8d088f50ff04d05327a5ee76a697631a886ff680",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
