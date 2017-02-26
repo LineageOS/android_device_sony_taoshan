@@ -26,7 +26,7 @@ TARGET_SCREEN_WIDTH := 480
 
 # Device identifications
 PRODUCT_DEVICE := taoshan
-PRODUCT_NAME := cm_taoshan
+PRODUCT_NAME := lineage_taoshan
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_MODEL := Xperia L
