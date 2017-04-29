@@ -10,6 +10,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     rild.libpath=/system/lib/libril-qc-qmi-1.so \
     ro.ril.telephony.mqanelements=6 \
+    ro.telephony.ril_class=SonyRIL \
     ro.ril.transmitpower=true
 
 # QMI properties
