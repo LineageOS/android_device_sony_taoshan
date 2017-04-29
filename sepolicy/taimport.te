@@ -5,4 +5,3 @@ init_daemon_domain(taimport)
 allow taimport system_data_file:dir { add_name create write };
 allow taimport tad:unix_stream_socket connectto;
 allow taimport tad_socket:sock_file write;
-allow taimport taimport_data_file:file create_file_perms;
