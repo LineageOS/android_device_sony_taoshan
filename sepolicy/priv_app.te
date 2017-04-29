@@ -3,3 +3,4 @@ allow priv_app cache_private_backup_file:dir getattr;
 allow priv_app mnt_media_rw_file:dir getattr;
 allow priv_app unlabeled:dir getattr;
 allow priv_app device:dir read;
+allow priv_app device:dir open;
