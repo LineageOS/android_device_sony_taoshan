@@ -26,3 +26,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Telephony properties
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.telephony.call_ring.multiple=0
+    
+# Data properties
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.com.android.mobiledata=false
