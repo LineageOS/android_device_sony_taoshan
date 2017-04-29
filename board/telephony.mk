@@ -1,2 +1,3 @@
 # RIL
 TARGET_RIL_VARIANT := caf
+BOARD_RIL_CLASS := ../../../$(DEVICE_PATH)/ril/
