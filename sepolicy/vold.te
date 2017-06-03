@@ -1,3 +1,2 @@
 allow vold cache_file:dir create;
 allow vold persist_file:dir search;
-allow vold unlabeled:dir write;
