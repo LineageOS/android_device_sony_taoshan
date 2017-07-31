@@ -6,7 +6,7 @@ BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x02000000
 
 # Kernel properties
 TARGET_KERNEL_SOURCE := kernel/sony/msm8930
-TARGET_KERNEL_CONFIG := cyanogenmod_taoshan_defconfig
+TARGET_KERNEL_CONFIG := taoshan_defconfig
 
 # Custom boot
 BOARD_CUSTOM_BOOTIMG := true
